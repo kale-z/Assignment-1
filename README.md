@@ -1,4 +1,4 @@
-# Django Practice [ 1 ]
+# Django Text Histogram
 This is my first Django practice rendering a text histogram. 
 
 
